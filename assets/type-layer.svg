@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="400" viewBox="0 0 1100 400">
+<defs><linearGradient id="line"><stop stop-color="#19d0fa"/><stop offset="1" stop-color="#ab75fa"/></linearGradient></defs>
+<g id="name"><text x="20" y="120" font-family="Noto Serif Display, Georgia, serif" font-size="105" fill="#f4f8ff">Mustafa Berk</text></g>
+<rect x="20" y="155" width="650" height="2" fill="url(#line)"/>
+<g id="tagline" font-family="Inter,Arial,sans-serif" font-size="35" fill="#e2edff"><text x="20" y="220">Operational depth. Systems thinking. Digital structure.</text></g>
+<g id="sectors" font-family="Inter,Arial,sans-serif" font-size="27" fill="#b9cee7"><text x="20" y="298">Cross-sector experience across retail, hospitality,</text><text x="20" y="339">logistics, aviation and high-sensitivity environments.</text></g></svg>
