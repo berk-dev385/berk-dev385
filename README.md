@@ -1,4 +1,4 @@
-<picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.webp"><img src="assets/hero-desktop.webp" alt="Mustafa Berk — operational depth, systems thinking and digital structure. BERK wolf logo above an interconnected logistics, aviation and transport landscape." width="100%"></picture>
+<picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.webp"><img src="assets/VISIT-FRONT.png" alt="Mustafa Berk — operational depth, systems thinking and digital structure. BERK wolf logo above an interconnected logistics, aviation and transport landscape." width="100%"></picture>
 
 ### A different vantage point on systems
 
