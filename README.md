@@ -1,5 +1,5 @@
 <picture><source media="(max-width: 600px)" srcset="assets/hero-mobile.webp"><img src="assets/VISIT-FRONT.png" alt="Mustafa Berk — operational depth, systems thinking and digital structure. BERK wolf logo above an interconnected logistics, aviation and transport landscape." width="100%"></picture>
-
+EN
 ### A different vantage point on systems
 
 I see technology through the realities it has to serve. **For more than two decades, my work has moved between retail, hospitality, logistics, supply chain and aviation-related operations** — including settings where reliability, discretion and precise coordination are essential.
@@ -21,8 +21,9 @@ I am adding hands-on software engineering to this operational foundation. My cur
 What interests me most is the connection between **real-world constraints** and **clear digital architecture**: translating operational behaviour into interfaces, rules and workflows that remain usable when complexity increases.
 
 ----
+DE
+### Ein anderer Blickwinkel auf Systeme
 
-Ein anderer Blickwinkel auf Systeme
 Ich sehe Technologie durch die Realitäten, denen sie dienen muss. Seit mehr als zwei Jahrzehnten bewegt sich meine Arbeit zwischen Einzelhandel, Gastgewerbe, Logistik, Lieferkette und luftfahrtbezogenen Betrieben – einschließlich Umgebungen, in denen Zuverlässigkeit, Diskretion und präzise Koordination unerlässlich sind.
 
 Diese Umgebungen haben mich gelehrt, über isolierte Aufgaben hinauszublicken. Eine Entscheidung an einer Stelle eines Systems verändert Arbeitsbelastung, Risiko, Timing und Erfahrung an einer anderen Stelle. Das Verständnis dieser Abhängigkeiten – menschlich, physisch, kommerziell und technisch – ist der Ausgangspunkt meines Denkens.
@@ -40,8 +41,8 @@ Ich ergänze diese operative Grundlage durch praktische Softwareentwicklung. Mei
 Am meisten interessiert mich die Verbindung zwischen realen Einschränkungen und klarer digitaler Architektur: die Übersetzung operativen Verhaltens in Schnittstellen, Regeln und Arbeitsabläufe, die bei zunehmender Komplexität nutzbar bleiben.
 
 ----
-
-Sistemlere farklı bir bakış açısı
+TR
+### Sistemlere farklı bir bakış açısı
 Teknolojiyi, hizmet etmek zorunda olduğu gerçeklikler üzerinden görüyorum. Yirmi yılı aşkın süredir çalışmalarım perakende, konaklama, lojistik, tedarik zinciri ve havacılıkla ilgili operasyonlar arasında geçti — güvenilirliğin, gizliliğin ve hassas koordinasyonun vazgeçilmez olduğu ortamlar dahil.
 
 Bu ortamlar bana izole görevlerin ötesine bakmayı öğretti. Bir sistemin bir noktasındaki karar, başka bir noktadaki iş yükünü, riski, zamanlamayı ve deneyimi değiştirir. Bu bağımlılıkları — insani, fiziksel, ticari ve teknik — anlamak, düşünme biçimimin başlangıç noktasıdır.
